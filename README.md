@@ -1,22 +1,22 @@
 # Credit Card Fraud Prediction 
 
-## Open Questions ? 
+### Open Questions ? 
  
-## Dataset 
+### Dataset 
 
-## Built With 
+### Built With 
 
-## Preprocessing
+### Preprocessing
 
-## Machine Lea
+### Machine Lea
 
-## Work to be done 
+### Work to be done 
 
-## Running the tests
+### Running the tests
 
-## Authors 
+### Authors 
 
-## License 
+### License 
 
-## Acknowledgments 
+### Acknowledgments 
 
