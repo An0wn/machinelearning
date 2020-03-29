@@ -1,10 +1,8 @@
 # Credit Card Fraud Prediction 
 
-<<<<<<< HEAD
-### Open Questions 
  
-### Dataset 
-=======
+### Dataset
+
 ### Open Questions
     *How do we solve the $190 billion Annual Fraud Problem? 
           how much is "lost" to credit card fraud - https://www.forbes.com/sites/haydnshaughnessy/2011/03/24/solving-the-190-billion-annual-fraud-scam-more-on-jumio/
