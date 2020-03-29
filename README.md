@@ -1,3 +1,20 @@
+
+# Machine Learning
+
+Credit Card Fraud Detection Project.
+
+## Getting Started
+
+The dataset for this project was obtained from [Kaggle]https://www.kaggle.com/mlg-ulb/creditcardfraud/tasks
+
+Reference points
+               1. https://towardsdatascience.com/error-analysis-in-neural-networks-6b0785858845
+               2. https://github.com/prajaktaag/Credit-Card-Fraud-Detection
+
+### Prerequisites
+
+
+
 # Credit Card Fraud Prediction 
 
  
