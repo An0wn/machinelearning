@@ -1,6 +1,6 @@
 # Credit Card Fraud Prediction 
 
-### Open Questions ? 
+### Open Questions 
  
 ### Dataset 
 
